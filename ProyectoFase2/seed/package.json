@@ -1,0 +1,13 @@
+{
+  "name": "la-estrella-seed",
+  "version": "1.0.0",
+  "description": "Script de carga de datos para Comercial La Estrella (Proyecto 2). Reproduce el dataset validado de la Fase 1 llamando exclusivamente al API REST.",
+  "main": "cargar_datos.js",
+  "scripts": {
+    "start": "node cargar_datos.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC"
+}
